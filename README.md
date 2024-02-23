@@ -53,7 +53,3 @@
 ### Other
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
-## Follow me 👉
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-frot)
