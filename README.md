@@ -4,8 +4,6 @@
 
 ## My stats⚡️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ethan-frot&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-frot&layout=compact&langs_count=12&theme=github_dark&card_width=445)
 
 ## My skills 💻
